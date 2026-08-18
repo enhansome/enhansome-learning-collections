@@ -19,7 +19,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 358971
+            "stars": 359074
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208056
+            "stars": 208090
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196496
+            "stars": 196509
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-07T12:06:42Z",
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 141910
+            "stars": 141934
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83059
+            "stars": 83072
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65200
+            "stars": 65206
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2024-05-08T23:07:36Z",
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31728
+            "stars": 31731
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-01T08:02:17Z",
             "owner": "keon",
             "repo": "algorithms",
-            "stars": 25534
+            "stars": 25538
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2024-12-25T19:55:23Z",
             "owner": "Olshansk",
             "repo": "interview",
-            "stars": 18350
+            "stars": 18351
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-10-05T22:20:46Z",
             "owner": "OpenGenus",
             "repo": "cosmos",
-            "stars": 13739
+            "stars": 13738
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-08-15T06:55:10Z",
             "owner": "vicky002",
             "repo": "AlgoWiki",
-            "stars": 4229
+            "stars": 4230
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2024-06-10T12:05:19Z",
             "owner": "anu0012",
             "repo": "awesome-computer-science-opportunities",
-            "stars": 4147
+            "stars": 4148
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29832
+            "stars": 29834
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2025-05-13T02:19:48Z",
             "owner": "ossu",
             "repo": "data-science",
-            "stars": 21891
+            "stars": 21892
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2026-08-14T17:26:59Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 364654
+            "stars": 364754
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184684
+            "stars": 184697
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105567
+            "stars": 105583
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84086
+            "stars": 84093
           }
         },
         {
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73541
+            "stars": 73547
           }
         },
         {
@@ -475,7 +475,7 @@
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60878
+            "stars": 60876
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43987
+            "stars": 43989
           }
         },
         {
@@ -503,7 +503,7 @@
             "last_commit": "2024-08-16T02:51:54Z",
             "owner": "open-guides",
             "repo": "og-aws",
-            "stars": 36438
+            "stars": 36440
           }
         },
         {
@@ -517,7 +517,7 @@
             "last_commit": "2024-10-15T14:33:12Z",
             "owner": "mbeaudru",
             "repo": "modern-js-cheatsheet",
-            "stars": 25613
+            "stars": 25614
           }
         },
         {
@@ -545,7 +545,7 @@
             "last_commit": "2023-12-18T07:53:58Z",
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17886
+            "stars": 17887
           }
         },
         {
@@ -559,7 +559,7 @@
             "last_commit": "2023-06-12T05:35:55Z",
             "owner": "grab",
             "repo": "front-end-guide",
-            "stars": 15235
+            "stars": 15236
           }
         },
         {
@@ -627,7 +627,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 540290
+            "stars": 540567
           }
         },
         {
@@ -641,7 +641,7 @@
             "last_commit": "2026-08-16T17:14:23Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394580
+            "stars": 394639
           }
         },
         {
@@ -655,7 +655,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364261
+            "stars": 364474
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2025-12-29T19:37:02Z",
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100247
+            "stars": 100258
           }
         },
         {
@@ -683,7 +683,7 @@
             "last_commit": "2025-09-16T18:34:24Z",
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76271
+            "stars": 76270
           }
         },
         {
@@ -697,7 +697,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48450
+            "stars": 48455
           }
         },
         {
@@ -711,7 +711,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47870
+            "stars": 47872
           }
         },
         {
@@ -725,7 +725,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46363
+            "stars": 46368
           }
         },
         {
@@ -753,7 +753,7 @@
             "last_commit": "2025-09-28T17:08:19Z",
             "owner": "braydie",
             "repo": "HowToBeAProgrammer",
-            "stars": 16305
+            "stars": 16306
           }
         },
         {
@@ -781,7 +781,7 @@
             "last_commit": "2024-06-17T04:27:11Z",
             "owner": "vicoyeh",
             "repo": "pointers-for-software-engineers",
-            "stars": 5736
+            "stars": 5735
           }
         },
         {
@@ -854,10 +854,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T07:04:22Z",
+            "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279510
+            "stars": 279644
           }
         },
         {
@@ -959,7 +959,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118465
+            "stars": 118517
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2019-07-10T09:15:27Z",
             "owner": "Hack-with-Github",
             "repo": "Free-Security-eBooks",
-            "stars": 4975
+            "stars": 4974
           }
         }
       ],
@@ -1007,7 +1007,7 @@
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4467
+            "stars": 4468
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14147
+            "stars": 14151
           }
         },
         {
@@ -1077,7 +1077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:35:12.567Z",
+    "last_updated": "2026-08-18T02:30:31.411Z",
     "original_repository": "johnpaulada/awesome-learning-collections",
     "original_repository_sha": "62eb4f81d2abda5277616510cc9a10037d3cbb75",
     "enhanced_repository": "enhansome/enhansome-learning-collections",
