@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "There are a lot of awesome learning collections out there and I've been having difficulty in keeping them in one place. So I will curate them here so other people can see and contribute to this. Whenever I encounter an awesome learning collection, I'll add it here.",
-      "items": [],
-      "title": "Motivation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60493101,
             "language": null,
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359159
+            "stars": 359199
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19415064,
             "language": "HTML",
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208145
+            "stars": 208159
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126577260,
             "language": "JavaScript",
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196517
+            "stars": 196522
           }
         },
         {
@@ -57,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62607227,
             "language": "TypeScript",
             "last_commit": "2026-08-07T12:06:42Z",
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 141970
+            "stars": 141992
           }
         },
         {
@@ -71,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583602,
             "language": null,
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83112
+            "stars": 83123
           }
         },
         {
@@ -85,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81975372,
             "language": "Java",
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65213
+            "stars": 65218
           }
         },
         {
@@ -99,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34757182,
             "language": "Python",
             "last_commit": "2024-05-08T23:07:36Z",
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31736
+            "stars": 31737
           }
         },
         {
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74073233,
             "language": "Python",
             "last_commit": "2026-08-01T08:02:17Z",
             "owner": "keon",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16334982,
             "language": null,
             "last_commit": "2024-12-25T19:55:23Z",
             "owner": "Olshansk",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103749180,
             "language": "C++",
             "last_commit": "2024-10-05T22:20:46Z",
             "owner": "OpenGenus",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81905084,
             "language": "TeX",
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27222050,
             "language": "CSS",
             "last_commit": "2025-08-15T06:55:10Z",
             "owner": "vicky002",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118009182,
             "language": null,
             "last_commit": "2024-06-10T12:05:19Z",
             "owner": "anu0012",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137962296,
             "language": "Python",
             "last_commit": "2019-10-12T10:56:12Z",
             "owner": "llSourcell",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59951874,
             "language": "Java",
             "last_commit": "2022-07-02T22:23:58Z",
             "owner": "AhmadElsagheer",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128468095,
             "language": null,
             "last_commit": "2021-08-22T00:04:42Z",
             "owner": "llSourcell",
@@ -239,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59614028,
             "language": null,
             "last_commit": "2023-05-08T00:19:19Z",
             "owner": "jdsutton",
@@ -253,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89893640,
             "language": "Python",
             "last_commit": "2024-12-13T12:41:58Z",
             "owner": "marcosfede",
@@ -267,42 +280,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122282849,
             "language": null,
             "last_commit": "2020-09-08T18:35:00Z",
             "owner": "runabol",
             "repo": "sicp-course",
             "stars": 230
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Coding Interview Topic on Github",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Competitive Programming Topic on Github",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Interview Topic on Github",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Algorithm Topic on Github",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Computer Science"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -311,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21515044,
             "language": null,
             "last_commit": "2026-08-18T10:27:04Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29838
+            "stars": 29839
           }
         },
         {
@@ -325,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70431106,
             "language": null,
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28863
+            "stars": 28865
           }
         },
         {
@@ -339,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61486207,
             "language": null,
             "last_commit": "2025-05-13T02:19:48Z",
             "owner": "ossu",
@@ -353,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79684696,
             "language": "Jupyter Notebook",
             "last_commit": "2021-07-01T04:34:00Z",
             "owner": "spro",
@@ -367,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61167891,
             "language": null,
             "last_commit": "2016-07-26T16:31:07Z",
             "owner": "sjchoi86",
@@ -381,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122454736,
             "language": null,
             "last_commit": "2024-07-10T16:35:47Z",
             "owner": "goodrahstar",
@@ -392,7 +388,7 @@
       "title": "Data Science"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -401,11 +397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85077558,
             "language": "TypeScript",
             "last_commit": "2026-08-18T11:56:04Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 364873
+            "stars": 364910
           }
         },
         {
@@ -415,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14440270,
             "language": null,
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184709
+            "stars": 184711
           }
         },
         {
@@ -429,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103633984,
             "language": "Dockerfile",
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105585
+            "stars": 105589
           }
         },
         {
@@ -443,11 +442,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52631841,
             "language": "TypeScript",
             "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84104
+            "stars": 84107
           }
         },
         {
@@ -457,11 +457,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107111421,
             "language": "MDX",
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73562
+            "stars": 73571
           }
         },
         {
@@ -471,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3402537,
             "language": "Nunjucks",
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60874
+            "stars": 60873
           }
         },
         {
@@ -485,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117372806,
             "language": "JavaScript",
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
@@ -499,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63266213,
             "language": "Shell",
             "last_commit": "2024-08-16T02:51:54Z",
             "owner": "open-guides",
             "repo": "og-aws",
-            "stars": 36440
+            "stars": 36441
           }
         },
         {
@@ -513,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103953059,
             "language": null,
             "last_commit": "2024-10-15T14:33:12Z",
             "owner": "mbeaudru",
             "repo": "modern-js-cheatsheet",
-            "stars": 25614
+            "stars": 25613
           }
         },
         {
@@ -527,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69798748,
             "language": "JavaScript",
             "last_commit": "2024-06-05T18:20:56Z",
             "owner": "verekia",
@@ -541,11 +547,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93956851,
             "language": null,
             "last_commit": "2023-12-18T07:53:58Z",
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17887
+            "stars": 17888
           }
         },
         {
@@ -555,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89187780,
             "language": "JavaScript",
             "last_commit": "2023-06-12T05:35:55Z",
             "owner": "grab",
@@ -569,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49660365,
             "language": null,
             "last_commit": "2024-02-01T06:32:31Z",
             "owner": "dmytroyarmak",
@@ -583,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107594709,
             "language": null,
             "last_commit": "2023-04-02T15:50:31Z",
             "owner": "open-guides",
@@ -597,24 +607,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53611264,
             "language": null,
             "last_commit": "2017-10-19T03:18:55Z",
             "owner": "adam-s",
             "repo": "js-interview-review",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Front-End-Wizard",
-          "description": "A collection of front end resources, tutorials, codepens and articles.",
-          "children": []
         }
       ],
       "title": "Web Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -623,11 +628,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132750724,
             "language": "Markdown",
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 540925
+            "stars": 541126
           }
         },
         {
@@ -637,11 +643,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13491895,
             "language": "Python",
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 394712
+            "stars": 394761
           }
         },
         {
@@ -651,11 +658,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83222441,
             "language": "Python",
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 364704
+            "stars": 364830
           }
         },
         {
@@ -665,11 +673,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101296881,
             "language": null,
             "last_commit": "2025-12-29T19:37:02Z",
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100261
+            "stars": 100264
           }
         },
         {
@@ -679,11 +688,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 83999700,
             "language": null,
             "last_commit": "2025-09-16T18:34:24Z",
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76274
+            "stars": 76272
           }
         },
         {
@@ -693,11 +703,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82227585,
             "language": null,
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48457
+            "stars": 48460
           }
         },
         {
@@ -707,11 +718,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11177928,
             "language": null,
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47878
+            "stars": 47879
           }
         },
         {
@@ -721,11 +733,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 110058856,
             "language": "JavaScript",
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46374
+            "stars": 46378
           }
         },
         {
@@ -735,11 +748,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20553982,
             "language": null,
             "last_commit": "2024-11-15T07:09:42Z",
             "owner": "arialdomartini",
             "repo": "Back-End-Developer-Interview-Questions",
-            "stars": 16950
+            "stars": 16949
           }
         },
         {
@@ -749,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49009950,
             "language": null,
             "last_commit": "2025-09-28T17:08:19Z",
             "owner": "braydie",
@@ -763,6 +778,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121970354,
             "language": "Swift",
             "last_commit": "2024-01-25T09:57:30Z",
             "owner": "BohdanOrlov",
@@ -777,6 +793,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60152989,
             "language": null,
             "last_commit": "2024-06-17T04:27:11Z",
             "owner": "vicoyeh",
@@ -791,6 +808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 472697800,
             "language": null,
             "last_commit": "2024-06-23T16:11:30Z",
             "owner": "toddmotto",
@@ -805,6 +823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13015084,
             "language": "Python",
             "last_commit": "2023-04-30T21:24:17Z",
             "owner": "crista",
@@ -819,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145657810,
             "language": null,
             "last_commit": "2019-08-24T01:18:46Z",
             "owner": "KieSun",
@@ -833,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112527404,
             "language": "Shell",
             "last_commit": "2019-06-03T03:09:40Z",
             "owner": "dennyzhang",
@@ -844,7 +865,7 @@
       "title": "Software Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -853,11 +874,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88011908,
             "language": "Python",
             "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279814
+            "stars": 279877
           }
         },
         {
@@ -867,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59398169,
             "language": null,
             "last_commit": "2022-01-05T14:13:12Z",
             "owner": "dgryski",
@@ -881,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116672811,
             "language": "Python",
             "last_commit": "2023-05-07T17:09:42Z",
             "owner": "Chalarangelo",
@@ -895,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122404324,
             "language": null,
             "last_commit": "2025-11-25T04:43:36Z",
             "owner": "enocom",
@@ -909,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127543044,
             "language": "Go",
             "last_commit": "2024-05-10T19:40:23Z",
             "owner": "ua-nick",
@@ -923,30 +949,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115108088,
             "language": "Java",
             "last_commit": "2022-09-26T13:05:04Z",
             "owner": "shekhargulati",
             "repo": "30-seconds-of-java",
             "stars": 1055
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Go Styleguide",
-          "description": "Opinionated Styleguide for the Go language.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Project-based Learning in C",
-          "description": "Learn C by building projects.",
-          "children": []
         }
       ],
       "title": "Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -955,11 +970,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55076063,
             "language": null,
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118580
+            "stars": 118612
           }
         },
         {
@@ -969,11 +985,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23981144,
             "language": "CSS",
             "last_commit": "2025-10-20T02:12:59Z",
             "owner": "rmusser01",
             "repo": "Infosec_Reference",
-            "stars": 5984
+            "stars": 5985
           }
         },
         {
@@ -983,18 +1000,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56771677,
             "language": null,
             "last_commit": "2019-07-10T09:15:27Z",
             "owner": "Hack-with-Github",
             "repo": "Free-Security-eBooks",
-            "stars": 4973
+            "stars": 4974
           }
         }
       ],
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1003,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102755229,
             "language": null,
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
@@ -1017,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127327332,
             "language": null,
             "last_commit": "2018-10-30T04:54:31Z",
             "owner": "llSourcell",
@@ -1028,7 +1048,7 @@
       "title": "Cryptocurrency"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1037,11 +1057,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36554250,
             "language": "JavaScript",
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14152
+            "stars": 14153
           }
         },
         {
@@ -1051,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115446696,
             "language": "JavaScript",
             "last_commit": "2023-04-20T02:00:00Z",
             "owner": "huyingjie",
@@ -1065,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72374883,
             "language": "Python",
             "last_commit": "2018-10-12T05:59:46Z",
             "owner": "torchhound",
@@ -1077,8 +1100,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:33:11.236Z",
+    "last_updated": "2026-08-19T12:36:49.230Z",
     "original_repository": "johnpaulada/awesome-learning-collections",
+    "original_repository_id": 117044066,
     "original_repository_sha": "62eb4f81d2abda5277616510cc9a10037d3cbb75",
     "enhanced_repository": "enhansome/enhansome-learning-collections",
     "enhanced_repository_description": null,
