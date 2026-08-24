@@ -15,7 +15,7 @@
             "last_commit": "2025-08-28T14:42:47Z",
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359500
+            "stars": 359572
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208331
+            "stars": 208370
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196539
+            "stars": 196546
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-07T12:06:42Z",
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 142082
+            "stars": 142107
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83151
+            "stars": 83163
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-05-12T12:56:04Z",
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65224
+            "stars": 65226
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-05-08T23:07:36Z",
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31745
+            "stars": 31747
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-01T08:02:17Z",
             "owner": "keon",
             "repo": "algorithms",
-            "stars": 25541
+            "stars": 25543
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-12-25T19:55:23Z",
             "owner": "Olshansk",
             "repo": "interview",
-            "stars": 18356
+            "stars": 18358
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-03-26T16:21:49Z",
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13676
+            "stars": 13680
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2025-08-15T06:55:10Z",
             "owner": "vicky002",
             "repo": "AlgoWiki",
-            "stars": 4228
+            "stars": 4229
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-22T06:20:28Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29851
+            "stars": 29857
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2024-06-11T04:49:29Z",
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28867
+            "stars": 28869
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-05-13T02:19:48Z",
             "owner": "ossu",
             "repo": "data-science",
-            "stars": 21905
+            "stars": 21911
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365182
+            "stars": 365259
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184715
+            "stars": 184717
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-06-15T11:41:04Z",
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105598
+            "stars": 105599
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-08-13T21:19:04Z",
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84120
+            "stars": 84128
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-14T05:59:25Z",
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73612
+            "stars": 73620
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2026-06-16T23:06:47Z",
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60870
+            "stars": 60869
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-13T08:25:31Z",
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 43992
+            "stars": 43993
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2024-08-16T02:51:54Z",
             "owner": "open-guides",
             "repo": "og-aws",
-            "stars": 36443
+            "stars": 36444
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2023-12-18T07:53:58Z",
             "owner": "dexteryy",
             "repo": "spellbook-of-modern-webdev",
-            "stars": 17897
+            "stars": 17898
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542147
+            "stars": 542381
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395036
+            "stars": 395092
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365494
+            "stars": 365646
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2025-12-29T19:37:02Z",
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100278
+            "stars": 100279
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2025-09-16T18:34:24Z",
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76271
+            "stars": 76270
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48464
+            "stars": 48467
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2024-08-14T19:06:05Z",
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47883
+            "stars": 47886
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46388
+            "stars": 46389
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2025-09-28T17:08:19Z",
             "owner": "braydie",
             "repo": "HowToBeAProgrammer",
-            "stars": 16308
+            "stars": 16307
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2024-01-25T09:57:30Z",
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6418
+            "stars": 6419
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280403
+            "stars": 280537
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 118834
+            "stars": 118909
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14173
+            "stars": 14177
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:38:26.530Z",
+    "last_updated": "2026-08-24T02:39:10.059Z",
     "original_repository": "johnpaulada/awesome-learning-collections",
     "original_repository_id": 117044066,
     "original_repository_sha": "62eb4f81d2abda5277616510cc9a10037d3cbb75",
