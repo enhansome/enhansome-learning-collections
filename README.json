@@ -30,7 +30,7 @@
             "last_commit": "2026-07-14T05:38:25Z",
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208451
+            "stars": 208452
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196567
+            "stars": 196566
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-07T12:06:42Z",
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 142199
+            "stars": 142200
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365611
+            "stars": 365615
           }
         },
         {
@@ -633,7 +633,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543314
+            "stars": 543325
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395311
+            "stars": 395313
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366321
+            "stars": 366324
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2024-12-02T04:54:48Z",
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48632
+            "stars": 48634
           }
         },
         {
@@ -879,7 +879,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281041
+            "stars": 281044
           }
         },
         {
@@ -975,7 +975,7 @@
             "last_commit": "2026-07-26T03:29:02Z",
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119146
+            "stars": 119149
           }
         },
         {
@@ -1026,7 +1026,7 @@
             "last_commit": "2024-06-19T20:53:40Z",
             "owner": "coinpride",
             "repo": "CryptoList",
-            "stars": 4474
+            "stars": 4475
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2024-11-09T17:06:27Z",
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14187
+            "stars": 14188
           }
         },
         {
@@ -1100,7 +1100,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:13:57.655Z",
+    "last_updated": "2026-08-27T11:46:39.535Z",
     "original_repository_info": {
       "archived": false,
       "id": 117044066,
