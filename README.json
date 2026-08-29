@@ -19,7 +19,7 @@
             "open_issues": 126,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 359926,
+            "stars": 359935,
             "topics": [
               "algorithm",
               "algorithms",
@@ -53,7 +53,7 @@
             "open_issues": 27,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 208491,
+            "stars": 208495,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -109,7 +109,7 @@
             "open_issues": 35,
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 142271,
+            "stars": 142274,
             "topics": [
               "algorithm",
               "algorithm-interview",
@@ -141,7 +141,7 @@
             "open_issues": 2,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83197,
+            "stars": 83198,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -223,7 +223,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31767,
+            "stars": 31768,
             "topics": [
               "algorithm",
               "coding",
@@ -255,7 +255,7 @@
             "open_issues": 5,
             "owner": "keon",
             "repo": "algorithms",
-            "stars": 25540,
+            "stars": 25541,
             "topics": [
               "algorithm",
               "algorithms",
@@ -604,7 +604,7 @@
             "open_issues": 8,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29887,
+            "stars": 29888,
             "topics": [
               "analytics",
               "awesome-list",
@@ -775,7 +775,7 @@
             "open_issues": 20,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365796,
+            "stars": 365803,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -815,7 +815,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184747,
+            "stars": 184748,
             "topics": [
               "async",
               "book",
@@ -890,7 +890,7 @@
             "open_issues": 27,
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84157,
+            "stars": 84158,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -911,7 +911,7 @@
             "open_issues": 7,
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 73932,
+            "stars": 73930,
             "topics": [
               "ai-agent",
               "ai-agents",
@@ -1240,7 +1240,7 @@
             "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543744,
+            "stars": 543772,
             "topics": [
               "awesome-list",
               "free",
@@ -1268,7 +1268,7 @@
             "open_issues": 92,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395484,
+            "stars": 395493,
             "topics": [
               "books",
               "education",
@@ -1295,7 +1295,7 @@
             "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366604,
+            "stars": 366616,
             "topics": [
               "design",
               "design-patterns",
@@ -1330,7 +1330,7 @@
             "open_issues": 25,
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100347,
+            "stars": 100346,
             "topics": [
               "cc-by",
               "collection",
@@ -1385,7 +1385,7 @@
             "open_issues": 16,
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48753,
+            "stars": 48766,
             "topics": [
               "architecture",
               "computer-science",
@@ -1672,7 +1672,7 @@
             "open_issues": 271,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281202,
+            "stars": 281213,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1848,7 +1848,7 @@
             "open_issues": 40,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 119269,
+            "stars": 119283,
             "topics": [
               "android",
               "awesome",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:20.743Z",
+    "last_updated": "2026-08-29T07:54:31.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome learning collections on various topics.",
