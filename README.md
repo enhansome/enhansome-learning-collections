@@ -30,10 +30,10 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Computer Science
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 362,428 | 🐛 127 | 📅 2025-08-28 - A pretty comprehensive checklist of things to learn and review to prepare for a coding interview.
-* [Open Source Society University Computer Science Path](https://github.com/ossu/computer-science) ⭐ 209,897 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Teach yourself Computer Science without spending a dime.
-* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,862 | 🐛 407 | 🌐 JavaScript | 📅 2026-07-26 - *Algorithms and data structures implemented in JavaScript with explanations and links to further readings.*
-* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,133 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07 - *Algorithms study materials, behavioral content and tips for rocking your coding interview.*
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 362,439 | 🐛 127 | 📅 2025-08-28 - A pretty comprehensive checklist of things to learn and review to prepare for a coding interview.
+* [Open Source Society University Computer Science Path](https://github.com/ossu/computer-science) ⭐ 209,900 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Teach yourself Computer Science without spending a dime.
+* [Javascript Algorithms](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,857 | 🐛 407 | 🌐 JavaScript | 📅 2026-07-26 - *Algorithms and data structures implemented in JavaScript with explanations and links to further readings.*
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,136 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07 - *Algorithms study materials, behavioral content and tips for rocking your coding interview.*
 * [Computer Science Courses with Video Lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,625 | 🐛 4 | 📅 2026-10-06 - *List of Computer Science courses with video lectures*.
 * [Interviews](https://github.com/kdn251/interviews) ⭐ 65,265 | 🐛 122 | 🌐 Java | 📅 2025-05-12 - *Everything you need to get the job.*
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,893 | 🐛 75 | 🌐 Python | 📅 2024-05-08 - *Interactive Python coding interview challenges (algorithms and data structures).*
@@ -71,8 +71,8 @@ There are a lot of awesome learning collections out there and I've been having d
 ## Data Science
 
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience) ⭐ 30,111 | 🐛 12 | 📅 2026-10-02 - A curated list of resources for learning Data Science.
-* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,871 | 🐛 34 | 📅 2024-06-11 - A practical approach to machine learning.
-* [Open Source Society University Data Science Path](https://github.com/ossu/data-science) ⭐ 22,148 | 🐛 4 | 📅 2025-05-13 - Teach yourself Data Science without spending a dime!
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) ⭐ 28,870 | 🐛 34 | 📅 2024-06-11 - A practical approach to machine learning.
+* [Open Source Society University Data Science Path](https://github.com/ossu/data-science) ⭐ 22,149 | 🐛 4 | 📅 2025-05-13 - Teach yourself Data Science without spending a dime!
 * [Practical PyTorch](https://github.com/spro/practical-pytorch) ⚠️ Archived - *PyTorch tutorials demonstrating modern techniques with readable code.*
 * [Deep Learning Tutorials](https://github.com/sjchoi86/dl_tutorials) ⭐ 1,515 | 🐛 1 | 📅 2016-07-26 - A collection of PowerPoint presentations about deep learning.
 * [Rahul Kumar's Awesome AI Bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks) ⭐ 286 | 🐛 2 | 📅 2024-07-10 - *Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.*
@@ -92,10 +92,10 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Web Development
 
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 368,995 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-05 - Roadmap to becoming a web developer.
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,010 | 🐛 2 | 📅 2026-02-15 - *This is a series of books diving deep into the core mechanisms of the JavaScript language.*
-* [Node Best Practices](https://github.com/i0natan/nodebestpractices) ⭐ 105,657 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - A list of best practices in Node and its ecosystem.
-* [Real World Apps](https://github.com/gothinkster/realworld) ⭐ 84,259 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 - *See how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec 😮😎*.
+* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 369,003 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - Roadmap to becoming a web developer.
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) ⭐ 185,012 | 🐛 2 | 📅 2026-02-15 - *This is a series of books diving deep into the core mechanisms of the JavaScript language.*
+* [Node Best Practices](https://github.com/i0natan/nodebestpractices) ⭐ 105,658 | 🐛 138 | 🌐 Dockerfile | 📅 2026-06-15 - A list of best practices in Node and its ecosystem.
+* [Real World Apps](https://github.com/gothinkster/realworld) ⭐ 84,261 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-26 - *See how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec 😮😎*.
 * [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,380 | 🐛 5 | 🌐 MDX | 📅 2026-10-05 - *The Front-End Checklist Application is perfect for modern websites and meticulous developers!*
 * [Frontend Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) ⭐ 60,855 | 🐛 63 | 🌐 Nunjucks | 📅 2026-06-16 - Ace your frontend developer interview by reviewing these questions.
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) ⭐ 44,009 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-05 - *Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore.*
@@ -105,7 +105,7 @@ There are a lot of awesome learning collections out there and I've been having d
 * [Spellbook for Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev) ⭐ 17,920 | 🐛 24 | 📅 2023-12-18 - *A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development.*
 * [Grab Frontend Guide](https://github.com/grab/front-end-guide) ⭐ 15,226 | 🐛 26 | 🌐 JavaScript | 📅 2023-06-12 - *Study guide and introduction to the modern front end stack.*
 * [Frontend Dev Resources](https://github.com/dmytroyarmak/frontend-dev-resources) ⭐ 647 | 🐛 4 | 📅 2024-02-01 - *List of useful resources for front end developers.*
-* [Search Engineering Open Guide](https://github.com/open-guides/og-search-engineering) ⭐ 598 | 🐛 2 | 📅 2023-04-02 - A practical guide to search engineering.
+* [Search Engineering Open Guide](https://github.com/open-guides/og-search-engineering) ⭐ 599 | 🐛 2 | 📅 2023-04-02 - A practical guide to search engineering.
 * [What Do I Need to Know to Ace a JavaScript Interview?](https://github.com/adam-s/js-interview-review) ⭐ 2 | 🐛 1 | 📅 2017-10-19 - A collection of resources for learning JS to ace an interview.
 * [Frontend Development Bookmarks](https://gist.github.com/dypsilon/5819504) - *A badass list of frontend development resources I collected over time.*
 * [Frontend Dev Bookmarks](https://frontend.directory/) - *Manually curated collection of resources for frontend web developers.*
@@ -140,14 +140,14 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Software Development
 
-* [Build your own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,767 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14 - Build your own language, server, database, etc. in order to understand them.
-* [Ebook Foundation Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) ⭐ 398,573 | 🐛 81 | 🌐 Python | 📅 2026-10-05 - A list of freely available programming books.
-* [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,329 | 🐛 624 | 🌐 Python | 📅 2026-09-15 - *Learn how to design large-scale systems. Prep for the system design interview.*
-* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,518 | 🐛 28 | 📅 2025-12-29 - *A collection of (mostly) technical things every software developer should know.*
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 551,794 | 🐛 668 | 🌐 Markdown | 📅 2026-07-14 - Build your own language, server, database, etc. in order to understand them.
+* [Ebook Foundation Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) ⭐ 398,581 | 🐛 81 | 🌐 Python | 📅 2026-10-05 - A list of freely available programming books.
+* [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 373,347 | 🐛 624 | 🌐 Python | 📅 2026-09-15 - *Learn how to design large-scale systems. Prep for the system design interview.*
+* [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,520 | 🐛 28 | 📅 2025-12-29 - *A collection of (mostly) technical things every software developer should know.*
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived - *Some useful websites for programmers.*
-* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) ⭐ 48,894 | 🐛 18 | 📅 2024-12-02 - Learn design patterns without the blood, sweat, and tears.
-* [Mega Project List](https://github.com/karan/Projects) ⭐ 47,977 | 🐛 123 | 📅 2024-08-14 - *A list of practical projects that anyone can solve in any programming language.*
-* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) ⭐ 46,537 | 🐛 133 | 🌐 JavaScript | 📅 2026-04-12 - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans/blob/master/README.md) ⭐ 48,895 | 🐛 18 | 📅 2024-12-02 - Learn design patterns without the blood, sweat, and tears.
+* [Mega Project List](https://github.com/karan/Projects) ⭐ 47,976 | 🐛 123 | 📅 2024-08-14 - *A list of practical projects that anyone can solve in any programming language.*
+* [Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) ⭐ 46,539 | 🐛 133 | 🌐 JavaScript | 📅 2026-04-12 - *Awesome cheatsheets for popular programming languages, frameworks and development tools.*
 * [Back-End Developmer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) ⭐ 16,979 | 🐛 16 | 📅 2024-11-15 - *A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore.*
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer) ⭐ 16,316 | 🐛 7 | 📅 2025-09-28 - Learn how to be a programmer with this collection of resources.
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) ⭐ 6,418 | 🐛 11 | 🌐 Swift | 📅 2024-01-25 - *Roadmap to becoming an iOS developer in 2018.*
@@ -185,10 +185,10 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Languages
 
-* [Project-based Learning](https://github.com/tuvtran/project-based-learning) ⭐ 285,994 | 🐛 259 | 🌐 Python | 📅 2026-10-05 - Learn languages by building projects.
+* [Project-based Learning](https://github.com/tuvtran/project-based-learning) ⭐ 286,012 | 🐛 259 | 🌐 Python | 📅 2026-10-05 - Learn languages by building projects.
 * [Go Performance Book](https://github.com/dgryski/go-perfbook) ⭐ 10,893 | 🐛 9 | 📅 2022-01-05 - *Thoughts on Go performance optimization.*
 * [30 Seconds of Python Code](https://github.com/kriadmin/30-seconds-of-python-code) ⚠️ Archived - *Python implementation of 30-seconds-of-code.*
-* [Gopher Reading List](https://github.com/enocom/gopher-reading-list) ⭐ 8,039 | 🐛 30 | 📅 2025-11-25 - *A curated selection of blog posts on Go.*
+* [Gopher Reading List](https://github.com/enocom/gopher-reading-list) ⭐ 8,038 | 🐛 30 | 📅 2025-11-25 - *A curated selection of blog posts on Go.*
 * [Data Structures and Algorithms in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) ⭐ 2,768 | 🐛 15 | 🌐 Go | 📅 2024-05-10 - Exactly what it says.
 * [30 Seconds of Java](https://github.com/shekhargulati/30-seconds-of-java) ⭐ 1,056 | 🐛 2 | 🌐 Java | 📅 2022-09-26 - *Curated collection of useful little Java functions that you can understand quickly.*
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/) - A pretty comprehensive Python usage cheatsheet without all the noise.
@@ -213,7 +213,7 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Security
 
-* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,959 | 🐛 43 | 📅 2026-07-26 - *A collection of various awesome lists for hackers, pentesters and security researchers.*
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) ⭐ 121,971 | 🐛 43 | 📅 2026-07-26 - *A collection of various awesome lists for hackers, pentesters and security researchers.*
 * [Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) ⭐ 6,001 | 🐛 4 | 🌐 CSS | 📅 2025-10-20 - *An Information Security Reference That Doesn't Suck.*
 * [Free Security Books](https://github.com/Hack-with-Github/Free-Security-eBooks) ⚠️ Archived - *Free Security and Hacking eBooks.*
 * [SecurityTube](http://www.securitytube.net/) - YouTube for Computer Security Videos
@@ -221,7 +221,7 @@ There are a lot of awesome learning collections out there and I've been having d
 
 ## Cryptocurrency
 
-* [CryptoList](https://github.com/coinpride/CryptoList) ⭐ 4,486 | 🐛 137 | 📅 2024-06-19 - *Curated collection of blockchain & cryptocurrency resources.*
+* [CryptoList](https://github.com/coinpride/CryptoList) ⭐ 4,487 | 🐛 137 | 📅 2024-06-19 - *Curated collection of blockchain & cryptocurrency resources.*
 * [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months) ⭐ 1,725 | 🐛 4 | 📅 2018-10-30 - Learn Blockchain in 2 months.
 * [Cryptominded](https://cryptominded.com) - *A curated directory of the best cryptocurrency resources.*
 
