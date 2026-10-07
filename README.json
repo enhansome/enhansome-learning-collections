@@ -19,7 +19,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362439,
+            "stars": 362474,
             "topics": [
               "algorithm",
               "algorithms",
@@ -53,7 +53,7 @@
             "open_issues": 28,
             "owner": "ossu",
             "repo": "computer-science",
-            "stars": 209900,
+            "stars": 209929,
             "topics": [
               "awesome-list",
               "computer-science",
@@ -76,7 +76,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 407,
+            "open_issues": 410,
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
             "stars": 196857,
@@ -109,7 +109,7 @@
             "open_issues": 37,
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 143136,
+            "stars": 143132,
             "topics": [
               "algorithm",
               "algorithm-interview",
@@ -141,7 +141,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83625,
+            "stars": 83633,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -181,7 +181,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65265,
+            "stars": 65262,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -223,7 +223,7 @@
             "open_issues": 75,
             "owner": "donnemartin",
             "repo": "interactive-coding-challenges",
-            "stars": 31893,
+            "stars": 31892,
             "topics": [
               "algorithm",
               "coding",
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "keon",
             "repo": "algorithms",
-            "stars": 25557,
+            "stars": 25558,
             "topics": [
               "algorithm",
               "algorithms",
@@ -350,7 +350,7 @@
             "open_issues": 67,
             "owner": "tuhdo",
             "repo": "os01",
-            "stars": 13723,
+            "stars": 13726,
             "topics": [
               "book",
               "operating-system"
@@ -404,7 +404,7 @@
             "open_issues": 17,
             "owner": "anu0012",
             "repo": "awesome-computer-science-opportunities",
-            "stars": 4173,
+            "stars": 4174,
             "topics": [
               "android",
               "awesome",
@@ -439,7 +439,7 @@
             "open_issues": 3,
             "owner": "llSourcell",
             "repo": "learn_math_fast",
-            "stars": 3292,
+            "stars": 3290,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -481,7 +481,7 @@
             "open_issues": 7,
             "owner": "llSourcell",
             "repo": "Learn_Computer_Science_in_5_Months",
-            "stars": 1845,
+            "stars": 1844,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -604,7 +604,7 @@
             "open_issues": 12,
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 30111,
+            "stars": 30115,
             "topics": [
               "analytics",
               "awesome-list",
@@ -636,7 +636,7 @@
             "open_issues": 34,
             "owner": "ZuzooVn",
             "repo": "machine-learning-for-software-engineers",
-            "stars": 28870,
+            "stars": 28871,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -663,7 +663,7 @@
             "open_issues": 4,
             "owner": "ossu",
             "repo": "data-science",
-            "stars": 22149,
+            "stars": 22158,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -771,11 +771,11 @@
             "id": 85077558,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:23:32Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-06T17:36:10Z",
+            "open_issues": 1,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 369003,
+            "stars": 369049,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -815,7 +815,7 @@
             "open_issues": 2,
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 185012,
+            "stars": 185004,
             "topics": [
               "async",
               "book",
@@ -850,7 +850,7 @@
             "open_issues": 138,
             "owner": "goldbergyoni",
             "repo": "nodebestpractices",
-            "stars": 105658,
+            "stars": 105660,
             "topics": [
               "best-practices",
               "es6",
@@ -890,7 +890,7 @@
             "open_issues": 28,
             "owner": "realworld-apps",
             "repo": "realworld",
-            "stars": 84261,
+            "stars": 84258,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -907,11 +907,11 @@
             "id": 107111421,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:37:30Z",
+            "last_commit": "2026-10-06T12:58:18Z",
             "open_issues": 5,
             "owner": "thedaviddias",
             "repo": "Front-End-Checklist",
-            "stars": 74380,
+            "stars": 74390,
             "topics": [
               "ai-agent",
               "ai-agents",
@@ -948,7 +948,7 @@
             "open_issues": 63,
             "owner": "h5bp",
             "repo": "Front-end-Developer-Interview-Questions",
-            "stars": 60855,
+            "stars": 60852,
             "topics": [
               "css-questions",
               "front-end",
@@ -976,7 +976,7 @@
             "open_issues": 11,
             "owner": "yangshun",
             "repo": "front-end-interview-handbook",
-            "stars": 44009,
+            "stars": 44008,
             "topics": [
               "css",
               "css-questions",
@@ -1013,7 +1013,7 @@
             "open_issues": 174,
             "owner": "open-guides",
             "repo": "og-aws",
-            "stars": 36464,
+            "stars": 36463,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -1237,10 +1237,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 668,
+            "open_issues": 670,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 551794,
+            "stars": 551927,
             "topics": [
               "awesome-list",
               "free",
@@ -1268,7 +1268,7 @@
             "open_issues": 81,
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 398581,
+            "stars": 398615,
             "topics": [
               "books",
               "education",
@@ -1295,7 +1295,7 @@
             "open_issues": 624,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 373347,
+            "stars": 373443,
             "topics": [
               "design",
               "design-patterns",
@@ -1330,7 +1330,7 @@
             "open_issues": 28,
             "owner": "mtdvio",
             "repo": "every-programmer-should-know",
-            "stars": 100520,
+            "stars": 100522,
             "topics": [
               "cc-by",
               "collection",
@@ -1357,7 +1357,7 @@
             "open_issues": 1002,
             "owner": "sdmg15",
             "repo": "Best-websites-a-programmer-should-visit",
-            "stars": 76233,
+            "stars": 76226,
             "topics": [
               "books",
               "cs",
@@ -1385,7 +1385,7 @@
             "open_issues": 18,
             "owner": "nilbuild",
             "repo": "design-patterns-for-humans",
-            "stars": 48895,
+            "stars": 48898,
             "topics": [
               "architecture",
               "computer-science",
@@ -1413,7 +1413,7 @@
             "open_issues": 123,
             "owner": "karan",
             "repo": "Projects",
-            "stars": 47976,
+            "stars": 47979,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -1434,7 +1434,7 @@
             "open_issues": 133,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46539,
+            "stars": 46537,
             "topics": [
               "backend",
               "bash",
@@ -1497,7 +1497,7 @@
             "open_issues": 7,
             "owner": "braydie",
             "repo": "HowToBeAProgrammer",
-            "stars": 16316,
+            "stars": 16317,
             "topics": [
               "learning",
               "programming"
@@ -1521,7 +1521,7 @@
             "open_issues": 11,
             "owner": "BohdanOrlov",
             "repo": "iOS-Developer-Roadmap",
-            "stars": 6418,
+            "stars": 6417,
             "topics": [
               "architecture",
               "interview",
@@ -1578,7 +1578,7 @@
             "open_issues": 13,
             "owner": "toddmotto",
             "repo": "public-apis",
-            "stars": 2737,
+            "stars": 2738,
             "topics": []
           },
           "first_seen": "2026-08-28T12:57:39.994Z"
@@ -1672,7 +1672,7 @@
             "open_issues": 259,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 286012,
+            "stars": 286119,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1848,7 +1848,7 @@
             "open_issues": 43,
             "owner": "Hack-with-Github",
             "repo": "Awesome-Hacking",
-            "stars": 121971,
+            "stars": 122014,
             "topics": [
               "android",
               "awesome",
@@ -1920,7 +1920,7 @@
             "open_issues": 3,
             "owner": "Hack-with-Github",
             "repo": "Free-Security-eBooks",
-            "stars": 5000,
+            "stars": 4997,
             "topics": [
               "cloud-security",
               "cyber-security",
@@ -1955,7 +1955,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-06-19T20:53:40Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "coinpride",
             "repo": "CryptoList",
             "stars": 4487,
@@ -2023,7 +2023,7 @@
             "open_issues": 33,
             "owner": "hackerkid",
             "repo": "Mind-Expanding-Books",
-            "stars": 14343,
+            "stars": 14348,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2062,7 +2062,7 @@
             "open_issues": 10,
             "owner": "huyingjie",
             "repo": "Checklist-Checklist",
-            "stars": 2974,
+            "stars": 2975,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2107,7 +2107,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:48:03.384Z",
+    "last_updated": "2026-10-07T07:18:43.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "✨ A curated list of awesome learning collections on various topics.",
